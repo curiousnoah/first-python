@@ -1,1 +1,1 @@
-# first-python
+ I am new to Github and python
